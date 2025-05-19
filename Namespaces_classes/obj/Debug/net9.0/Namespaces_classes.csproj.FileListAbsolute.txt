@@ -1,0 +1,14 @@
+/home/arbinddas/Downloads/dotnet_individual_projects/Namespaces_classes/bin/Debug/net9.0/Namespaces_classes
+/home/arbinddas/Downloads/dotnet_individual_projects/Namespaces_classes/bin/Debug/net9.0/Namespaces_classes.deps.json
+/home/arbinddas/Downloads/dotnet_individual_projects/Namespaces_classes/bin/Debug/net9.0/Namespaces_classes.runtimeconfig.json
+/home/arbinddas/Downloads/dotnet_individual_projects/Namespaces_classes/bin/Debug/net9.0/Namespaces_classes.dll
+/home/arbinddas/Downloads/dotnet_individual_projects/Namespaces_classes/bin/Debug/net9.0/Namespaces_classes.pdb
+/home/arbinddas/Downloads/dotnet_individual_projects/Namespaces_classes/obj/Debug/net9.0/Namespaces_classes.GeneratedMSBuildEditorConfig.editorconfig
+/home/arbinddas/Downloads/dotnet_individual_projects/Namespaces_classes/obj/Debug/net9.0/Namespaces_classes.AssemblyInfoInputs.cache
+/home/arbinddas/Downloads/dotnet_individual_projects/Namespaces_classes/obj/Debug/net9.0/Namespaces_classes.AssemblyInfo.cs
+/home/arbinddas/Downloads/dotnet_individual_projects/Namespaces_classes/obj/Debug/net9.0/Namespaces_classes.csproj.CoreCompileInputs.cache
+/home/arbinddas/Downloads/dotnet_individual_projects/Namespaces_classes/obj/Debug/net9.0/Namespaces_classes.dll
+/home/arbinddas/Downloads/dotnet_individual_projects/Namespaces_classes/obj/Debug/net9.0/refint/Namespaces_classes.dll
+/home/arbinddas/Downloads/dotnet_individual_projects/Namespaces_classes/obj/Debug/net9.0/Namespaces_classes.pdb
+/home/arbinddas/Downloads/dotnet_individual_projects/Namespaces_classes/obj/Debug/net9.0/Namespaces_classes.genruntimeconfig.cache
+/home/arbinddas/Downloads/dotnet_individual_projects/Namespaces_classes/obj/Debug/net9.0/ref/Namespaces_classes.dll

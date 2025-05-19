@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Namespaces_Conflict_Resolution_with_Nested_using/1.0.0": {
+        "runtime": {
+          "Namespaces_Conflict_Resolution_with_Nested_using.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Namespaces_Conflict_Resolution_with_Nested_using/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

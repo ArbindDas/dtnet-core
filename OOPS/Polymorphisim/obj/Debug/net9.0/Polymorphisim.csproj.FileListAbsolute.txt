@@ -1,0 +1,14 @@
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Polymorphisim/obj/Debug/net9.0/Polymorphisim.GeneratedMSBuildEditorConfig.editorconfig
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Polymorphisim/obj/Debug/net9.0/Polymorphisim.AssemblyInfoInputs.cache
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Polymorphisim/obj/Debug/net9.0/Polymorphisim.AssemblyInfo.cs
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Polymorphisim/obj/Debug/net9.0/Polymorphisim.csproj.CoreCompileInputs.cache
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Polymorphisim/bin/Debug/net9.0/Polymorphisim
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Polymorphisim/bin/Debug/net9.0/Polymorphisim.deps.json
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Polymorphisim/bin/Debug/net9.0/Polymorphisim.runtimeconfig.json
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Polymorphisim/bin/Debug/net9.0/Polymorphisim.dll
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Polymorphisim/bin/Debug/net9.0/Polymorphisim.pdb
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Polymorphisim/obj/Debug/net9.0/Polymorphisim.dll
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Polymorphisim/obj/Debug/net9.0/refint/Polymorphisim.dll
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Polymorphisim/obj/Debug/net9.0/Polymorphisim.pdb
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Polymorphisim/obj/Debug/net9.0/Polymorphisim.genruntimeconfig.cache
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Polymorphisim/obj/Debug/net9.0/ref/Polymorphisim.dll

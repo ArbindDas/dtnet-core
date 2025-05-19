@@ -1,0 +1,14 @@
+/home/arbinddas/Downloads/dotnet_individual_projects/LeapYear/bin/Debug/net9.0/LeapYear
+/home/arbinddas/Downloads/dotnet_individual_projects/LeapYear/bin/Debug/net9.0/LeapYear.deps.json
+/home/arbinddas/Downloads/dotnet_individual_projects/LeapYear/bin/Debug/net9.0/LeapYear.runtimeconfig.json
+/home/arbinddas/Downloads/dotnet_individual_projects/LeapYear/bin/Debug/net9.0/LeapYear.dll
+/home/arbinddas/Downloads/dotnet_individual_projects/LeapYear/bin/Debug/net9.0/LeapYear.pdb
+/home/arbinddas/Downloads/dotnet_individual_projects/LeapYear/obj/Debug/net9.0/LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+/home/arbinddas/Downloads/dotnet_individual_projects/LeapYear/obj/Debug/net9.0/LeapYear.AssemblyInfoInputs.cache
+/home/arbinddas/Downloads/dotnet_individual_projects/LeapYear/obj/Debug/net9.0/LeapYear.AssemblyInfo.cs
+/home/arbinddas/Downloads/dotnet_individual_projects/LeapYear/obj/Debug/net9.0/LeapYear.csproj.CoreCompileInputs.cache
+/home/arbinddas/Downloads/dotnet_individual_projects/LeapYear/obj/Debug/net9.0/LeapYear.dll
+/home/arbinddas/Downloads/dotnet_individual_projects/LeapYear/obj/Debug/net9.0/refint/LeapYear.dll
+/home/arbinddas/Downloads/dotnet_individual_projects/LeapYear/obj/Debug/net9.0/LeapYear.pdb
+/home/arbinddas/Downloads/dotnet_individual_projects/LeapYear/obj/Debug/net9.0/LeapYear.genruntimeconfig.cache
+/home/arbinddas/Downloads/dotnet_individual_projects/LeapYear/obj/Debug/net9.0/ref/LeapYear.dll

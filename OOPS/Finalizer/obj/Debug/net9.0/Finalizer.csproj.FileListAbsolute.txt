@@ -1,0 +1,14 @@
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Finalizer/bin/Debug/net9.0/Finalizer
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Finalizer/bin/Debug/net9.0/Finalizer.deps.json
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Finalizer/bin/Debug/net9.0/Finalizer.runtimeconfig.json
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Finalizer/bin/Debug/net9.0/Finalizer.dll
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Finalizer/bin/Debug/net9.0/Finalizer.pdb
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Finalizer/obj/Debug/net9.0/Finalizer.GeneratedMSBuildEditorConfig.editorconfig
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Finalizer/obj/Debug/net9.0/Finalizer.AssemblyInfoInputs.cache
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Finalizer/obj/Debug/net9.0/Finalizer.AssemblyInfo.cs
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Finalizer/obj/Debug/net9.0/Finalizer.csproj.CoreCompileInputs.cache
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Finalizer/obj/Debug/net9.0/Finalizer.dll
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Finalizer/obj/Debug/net9.0/refint/Finalizer.dll
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Finalizer/obj/Debug/net9.0/Finalizer.pdb
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Finalizer/obj/Debug/net9.0/Finalizer.genruntimeconfig.cache
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Finalizer/obj/Debug/net9.0/ref/Finalizer.dll

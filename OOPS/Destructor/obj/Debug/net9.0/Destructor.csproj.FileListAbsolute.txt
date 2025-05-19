@@ -1,0 +1,14 @@
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Destructor/bin/Debug/net9.0/Destructor
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Destructor/bin/Debug/net9.0/Destructor.deps.json
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Destructor/bin/Debug/net9.0/Destructor.runtimeconfig.json
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Destructor/bin/Debug/net9.0/Destructor.dll
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Destructor/bin/Debug/net9.0/Destructor.pdb
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Destructor/obj/Debug/net9.0/Destructor.GeneratedMSBuildEditorConfig.editorconfig
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Destructor/obj/Debug/net9.0/Destructor.AssemblyInfoInputs.cache
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Destructor/obj/Debug/net9.0/Destructor.AssemblyInfo.cs
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Destructor/obj/Debug/net9.0/Destructor.csproj.CoreCompileInputs.cache
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Destructor/obj/Debug/net9.0/Destructor.dll
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Destructor/obj/Debug/net9.0/refint/Destructor.dll
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Destructor/obj/Debug/net9.0/Destructor.pdb
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Destructor/obj/Debug/net9.0/Destructor.genruntimeconfig.cache
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Destructor/obj/Debug/net9.0/ref/Destructor.dll

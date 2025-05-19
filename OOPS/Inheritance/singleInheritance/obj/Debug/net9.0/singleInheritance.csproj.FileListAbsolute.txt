@@ -1,0 +1,14 @@
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Inheritance/singleInheritance/bin/Debug/net9.0/singleInheritance
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Inheritance/singleInheritance/bin/Debug/net9.0/singleInheritance.deps.json
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Inheritance/singleInheritance/bin/Debug/net9.0/singleInheritance.runtimeconfig.json
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Inheritance/singleInheritance/bin/Debug/net9.0/singleInheritance.dll
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Inheritance/singleInheritance/bin/Debug/net9.0/singleInheritance.pdb
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Inheritance/singleInheritance/obj/Debug/net9.0/singleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Inheritance/singleInheritance/obj/Debug/net9.0/singleInheritance.AssemblyInfoInputs.cache
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Inheritance/singleInheritance/obj/Debug/net9.0/singleInheritance.AssemblyInfo.cs
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Inheritance/singleInheritance/obj/Debug/net9.0/singleInheritance.csproj.CoreCompileInputs.cache
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Inheritance/singleInheritance/obj/Debug/net9.0/singleInheritance.dll
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Inheritance/singleInheritance/obj/Debug/net9.0/refint/singleInheritance.dll
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Inheritance/singleInheritance/obj/Debug/net9.0/singleInheritance.pdb
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Inheritance/singleInheritance/obj/Debug/net9.0/singleInheritance.genruntimeconfig.cache
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Inheritance/singleInheritance/obj/Debug/net9.0/ref/singleInheritance.dll

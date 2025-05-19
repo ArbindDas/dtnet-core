@@ -1,0 +1,14 @@
+/home/arbinddas/Downloads/dotnet_individual_projects/IfElseExample/bin/Debug/net9.0/IfElseExample
+/home/arbinddas/Downloads/dotnet_individual_projects/IfElseExample/bin/Debug/net9.0/IfElseExample.deps.json
+/home/arbinddas/Downloads/dotnet_individual_projects/IfElseExample/bin/Debug/net9.0/IfElseExample.runtimeconfig.json
+/home/arbinddas/Downloads/dotnet_individual_projects/IfElseExample/bin/Debug/net9.0/IfElseExample.dll
+/home/arbinddas/Downloads/dotnet_individual_projects/IfElseExample/bin/Debug/net9.0/IfElseExample.pdb
+/home/arbinddas/Downloads/dotnet_individual_projects/IfElseExample/obj/Debug/net9.0/IfElseExample.GeneratedMSBuildEditorConfig.editorconfig
+/home/arbinddas/Downloads/dotnet_individual_projects/IfElseExample/obj/Debug/net9.0/IfElseExample.AssemblyInfoInputs.cache
+/home/arbinddas/Downloads/dotnet_individual_projects/IfElseExample/obj/Debug/net9.0/IfElseExample.AssemblyInfo.cs
+/home/arbinddas/Downloads/dotnet_individual_projects/IfElseExample/obj/Debug/net9.0/IfElseExample.csproj.CoreCompileInputs.cache
+/home/arbinddas/Downloads/dotnet_individual_projects/IfElseExample/obj/Debug/net9.0/IfElseExample.dll
+/home/arbinddas/Downloads/dotnet_individual_projects/IfElseExample/obj/Debug/net9.0/refint/IfElseExample.dll
+/home/arbinddas/Downloads/dotnet_individual_projects/IfElseExample/obj/Debug/net9.0/IfElseExample.pdb
+/home/arbinddas/Downloads/dotnet_individual_projects/IfElseExample/obj/Debug/net9.0/IfElseExample.genruntimeconfig.cache
+/home/arbinddas/Downloads/dotnet_individual_projects/IfElseExample/obj/Debug/net9.0/ref/IfElseExample.dll

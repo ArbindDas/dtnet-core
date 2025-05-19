@@ -1,0 +1,14 @@
+/home/arbinddas/Downloads/dotnet_individual_projects/MySimpleNamespace/bin/Debug/net9.0/MySimpleNamespace
+/home/arbinddas/Downloads/dotnet_individual_projects/MySimpleNamespace/bin/Debug/net9.0/MySimpleNamespace.deps.json
+/home/arbinddas/Downloads/dotnet_individual_projects/MySimpleNamespace/bin/Debug/net9.0/MySimpleNamespace.runtimeconfig.json
+/home/arbinddas/Downloads/dotnet_individual_projects/MySimpleNamespace/bin/Debug/net9.0/MySimpleNamespace.dll
+/home/arbinddas/Downloads/dotnet_individual_projects/MySimpleNamespace/bin/Debug/net9.0/MySimpleNamespace.pdb
+/home/arbinddas/Downloads/dotnet_individual_projects/MySimpleNamespace/obj/Debug/net9.0/MySimpleNamespace.GeneratedMSBuildEditorConfig.editorconfig
+/home/arbinddas/Downloads/dotnet_individual_projects/MySimpleNamespace/obj/Debug/net9.0/MySimpleNamespace.AssemblyInfoInputs.cache
+/home/arbinddas/Downloads/dotnet_individual_projects/MySimpleNamespace/obj/Debug/net9.0/MySimpleNamespace.AssemblyInfo.cs
+/home/arbinddas/Downloads/dotnet_individual_projects/MySimpleNamespace/obj/Debug/net9.0/MySimpleNamespace.csproj.CoreCompileInputs.cache
+/home/arbinddas/Downloads/dotnet_individual_projects/MySimpleNamespace/obj/Debug/net9.0/MySimpleNamespace.dll
+/home/arbinddas/Downloads/dotnet_individual_projects/MySimpleNamespace/obj/Debug/net9.0/refint/MySimpleNamespace.dll
+/home/arbinddas/Downloads/dotnet_individual_projects/MySimpleNamespace/obj/Debug/net9.0/MySimpleNamespace.pdb
+/home/arbinddas/Downloads/dotnet_individual_projects/MySimpleNamespace/obj/Debug/net9.0/MySimpleNamespace.genruntimeconfig.cache
+/home/arbinddas/Downloads/dotnet_individual_projects/MySimpleNamespace/obj/Debug/net9.0/ref/MySimpleNamespace.dll

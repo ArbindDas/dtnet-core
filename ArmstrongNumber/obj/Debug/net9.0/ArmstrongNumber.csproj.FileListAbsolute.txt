@@ -1,0 +1,14 @@
+/home/arbinddas/Downloads/dotnet_individual_projects/ArmstrongNumber/bin/Debug/net9.0/ArmstrongNumber
+/home/arbinddas/Downloads/dotnet_individual_projects/ArmstrongNumber/bin/Debug/net9.0/ArmstrongNumber.deps.json
+/home/arbinddas/Downloads/dotnet_individual_projects/ArmstrongNumber/bin/Debug/net9.0/ArmstrongNumber.runtimeconfig.json
+/home/arbinddas/Downloads/dotnet_individual_projects/ArmstrongNumber/bin/Debug/net9.0/ArmstrongNumber.dll
+/home/arbinddas/Downloads/dotnet_individual_projects/ArmstrongNumber/bin/Debug/net9.0/ArmstrongNumber.pdb
+/home/arbinddas/Downloads/dotnet_individual_projects/ArmstrongNumber/obj/Debug/net9.0/ArmstrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/arbinddas/Downloads/dotnet_individual_projects/ArmstrongNumber/obj/Debug/net9.0/ArmstrongNumber.AssemblyInfoInputs.cache
+/home/arbinddas/Downloads/dotnet_individual_projects/ArmstrongNumber/obj/Debug/net9.0/ArmstrongNumber.AssemblyInfo.cs
+/home/arbinddas/Downloads/dotnet_individual_projects/ArmstrongNumber/obj/Debug/net9.0/ArmstrongNumber.csproj.CoreCompileInputs.cache
+/home/arbinddas/Downloads/dotnet_individual_projects/ArmstrongNumber/obj/Debug/net9.0/ArmstrongNumber.dll
+/home/arbinddas/Downloads/dotnet_individual_projects/ArmstrongNumber/obj/Debug/net9.0/refint/ArmstrongNumber.dll
+/home/arbinddas/Downloads/dotnet_individual_projects/ArmstrongNumber/obj/Debug/net9.0/ArmstrongNumber.pdb
+/home/arbinddas/Downloads/dotnet_individual_projects/ArmstrongNumber/obj/Debug/net9.0/ArmstrongNumber.genruntimeconfig.cache
+/home/arbinddas/Downloads/dotnet_individual_projects/ArmstrongNumber/obj/Debug/net9.0/ref/ArmstrongNumber.dll

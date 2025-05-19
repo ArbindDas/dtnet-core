@@ -1,0 +1,14 @@
+/home/arbinddas/Downloads/dotnet_individual_projects/CountDigits/bin/Debug/net9.0/CountDigits
+/home/arbinddas/Downloads/dotnet_individual_projects/CountDigits/bin/Debug/net9.0/CountDigits.deps.json
+/home/arbinddas/Downloads/dotnet_individual_projects/CountDigits/bin/Debug/net9.0/CountDigits.runtimeconfig.json
+/home/arbinddas/Downloads/dotnet_individual_projects/CountDigits/bin/Debug/net9.0/CountDigits.dll
+/home/arbinddas/Downloads/dotnet_individual_projects/CountDigits/bin/Debug/net9.0/CountDigits.pdb
+/home/arbinddas/Downloads/dotnet_individual_projects/CountDigits/obj/Debug/net9.0/CountDigits.GeneratedMSBuildEditorConfig.editorconfig
+/home/arbinddas/Downloads/dotnet_individual_projects/CountDigits/obj/Debug/net9.0/CountDigits.AssemblyInfoInputs.cache
+/home/arbinddas/Downloads/dotnet_individual_projects/CountDigits/obj/Debug/net9.0/CountDigits.AssemblyInfo.cs
+/home/arbinddas/Downloads/dotnet_individual_projects/CountDigits/obj/Debug/net9.0/CountDigits.csproj.CoreCompileInputs.cache
+/home/arbinddas/Downloads/dotnet_individual_projects/CountDigits/obj/Debug/net9.0/CountDigits.dll
+/home/arbinddas/Downloads/dotnet_individual_projects/CountDigits/obj/Debug/net9.0/refint/CountDigits.dll
+/home/arbinddas/Downloads/dotnet_individual_projects/CountDigits/obj/Debug/net9.0/CountDigits.pdb
+/home/arbinddas/Downloads/dotnet_individual_projects/CountDigits/obj/Debug/net9.0/CountDigits.genruntimeconfig.cache
+/home/arbinddas/Downloads/dotnet_individual_projects/CountDigits/obj/Debug/net9.0/ref/CountDigits.dll

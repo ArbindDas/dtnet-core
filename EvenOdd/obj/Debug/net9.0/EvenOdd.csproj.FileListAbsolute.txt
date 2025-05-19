@@ -1,0 +1,14 @@
+/home/arbinddas/Downloads/dotnet_individual_projects/EvenOdd/bin/Debug/net9.0/EvenOdd
+/home/arbinddas/Downloads/dotnet_individual_projects/EvenOdd/bin/Debug/net9.0/EvenOdd.deps.json
+/home/arbinddas/Downloads/dotnet_individual_projects/EvenOdd/bin/Debug/net9.0/EvenOdd.runtimeconfig.json
+/home/arbinddas/Downloads/dotnet_individual_projects/EvenOdd/bin/Debug/net9.0/EvenOdd.dll
+/home/arbinddas/Downloads/dotnet_individual_projects/EvenOdd/bin/Debug/net9.0/EvenOdd.pdb
+/home/arbinddas/Downloads/dotnet_individual_projects/EvenOdd/obj/Debug/net9.0/EvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+/home/arbinddas/Downloads/dotnet_individual_projects/EvenOdd/obj/Debug/net9.0/EvenOdd.AssemblyInfoInputs.cache
+/home/arbinddas/Downloads/dotnet_individual_projects/EvenOdd/obj/Debug/net9.0/EvenOdd.AssemblyInfo.cs
+/home/arbinddas/Downloads/dotnet_individual_projects/EvenOdd/obj/Debug/net9.0/EvenOdd.csproj.CoreCompileInputs.cache
+/home/arbinddas/Downloads/dotnet_individual_projects/EvenOdd/obj/Debug/net9.0/EvenOdd.dll
+/home/arbinddas/Downloads/dotnet_individual_projects/EvenOdd/obj/Debug/net9.0/refint/EvenOdd.dll
+/home/arbinddas/Downloads/dotnet_individual_projects/EvenOdd/obj/Debug/net9.0/EvenOdd.pdb
+/home/arbinddas/Downloads/dotnet_individual_projects/EvenOdd/obj/Debug/net9.0/EvenOdd.genruntimeconfig.cache
+/home/arbinddas/Downloads/dotnet_individual_projects/EvenOdd/obj/Debug/net9.0/ref/EvenOdd.dll

@@ -1,0 +1,14 @@
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Polymorphisim/CompileTImePolyMorPhisim/bin/Debug/net9.0/CompileTImePolyMorPhisim
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Polymorphisim/CompileTImePolyMorPhisim/bin/Debug/net9.0/CompileTImePolyMorPhisim.deps.json
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Polymorphisim/CompileTImePolyMorPhisim/bin/Debug/net9.0/CompileTImePolyMorPhisim.runtimeconfig.json
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Polymorphisim/CompileTImePolyMorPhisim/bin/Debug/net9.0/CompileTImePolyMorPhisim.dll
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Polymorphisim/CompileTImePolyMorPhisim/bin/Debug/net9.0/CompileTImePolyMorPhisim.pdb
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Polymorphisim/CompileTImePolyMorPhisim/obj/Debug/net9.0/CompileTImePolyMorPhisim.GeneratedMSBuildEditorConfig.editorconfig
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Polymorphisim/CompileTImePolyMorPhisim/obj/Debug/net9.0/CompileTImePolyMorPhisim.AssemblyInfoInputs.cache
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Polymorphisim/CompileTImePolyMorPhisim/obj/Debug/net9.0/CompileTImePolyMorPhisim.AssemblyInfo.cs
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Polymorphisim/CompileTImePolyMorPhisim/obj/Debug/net9.0/CompileTImePolyMorPhisim.csproj.CoreCompileInputs.cache
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Polymorphisim/CompileTImePolyMorPhisim/obj/Debug/net9.0/CompileTImePolyMorPhisim.dll
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Polymorphisim/CompileTImePolyMorPhisim/obj/Debug/net9.0/refint/CompileTImePolyMorPhisim.dll
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Polymorphisim/CompileTImePolyMorPhisim/obj/Debug/net9.0/CompileTImePolyMorPhisim.pdb
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Polymorphisim/CompileTImePolyMorPhisim/obj/Debug/net9.0/CompileTImePolyMorPhisim.genruntimeconfig.cache
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/Polymorphisim/CompileTImePolyMorPhisim/obj/Debug/net9.0/ref/CompileTImePolyMorPhisim.dll

@@ -1,0 +1,14 @@
+/home/arbinddas/Downloads/dotnet_individual_projects/Nested_Namespace/bin/Debug/net9.0/Nested_Namespace
+/home/arbinddas/Downloads/dotnet_individual_projects/Nested_Namespace/bin/Debug/net9.0/Nested_Namespace.deps.json
+/home/arbinddas/Downloads/dotnet_individual_projects/Nested_Namespace/bin/Debug/net9.0/Nested_Namespace.runtimeconfig.json
+/home/arbinddas/Downloads/dotnet_individual_projects/Nested_Namespace/bin/Debug/net9.0/Nested_Namespace.dll
+/home/arbinddas/Downloads/dotnet_individual_projects/Nested_Namespace/bin/Debug/net9.0/Nested_Namespace.pdb
+/home/arbinddas/Downloads/dotnet_individual_projects/Nested_Namespace/obj/Debug/net9.0/Nested_Namespace.GeneratedMSBuildEditorConfig.editorconfig
+/home/arbinddas/Downloads/dotnet_individual_projects/Nested_Namespace/obj/Debug/net9.0/Nested_Namespace.AssemblyInfoInputs.cache
+/home/arbinddas/Downloads/dotnet_individual_projects/Nested_Namespace/obj/Debug/net9.0/Nested_Namespace.AssemblyInfo.cs
+/home/arbinddas/Downloads/dotnet_individual_projects/Nested_Namespace/obj/Debug/net9.0/Nested_Namespace.csproj.CoreCompileInputs.cache
+/home/arbinddas/Downloads/dotnet_individual_projects/Nested_Namespace/obj/Debug/net9.0/Nested_Namespace.dll
+/home/arbinddas/Downloads/dotnet_individual_projects/Nested_Namespace/obj/Debug/net9.0/refint/Nested_Namespace.dll
+/home/arbinddas/Downloads/dotnet_individual_projects/Nested_Namespace/obj/Debug/net9.0/Nested_Namespace.pdb
+/home/arbinddas/Downloads/dotnet_individual_projects/Nested_Namespace/obj/Debug/net9.0/Nested_Namespace.genruntimeconfig.cache
+/home/arbinddas/Downloads/dotnet_individual_projects/Nested_Namespace/obj/Debug/net9.0/ref/Nested_Namespace.dll

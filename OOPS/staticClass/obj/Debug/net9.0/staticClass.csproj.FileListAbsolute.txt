@@ -1,0 +1,14 @@
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/staticClass/bin/Debug/net9.0/staticClass
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/staticClass/bin/Debug/net9.0/staticClass.deps.json
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/staticClass/bin/Debug/net9.0/staticClass.runtimeconfig.json
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/staticClass/bin/Debug/net9.0/staticClass.dll
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/staticClass/bin/Debug/net9.0/staticClass.pdb
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/staticClass/obj/Debug/net9.0/staticClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/staticClass/obj/Debug/net9.0/staticClass.AssemblyInfoInputs.cache
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/staticClass/obj/Debug/net9.0/staticClass.AssemblyInfo.cs
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/staticClass/obj/Debug/net9.0/staticClass.csproj.CoreCompileInputs.cache
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/staticClass/obj/Debug/net9.0/staticClass.dll
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/staticClass/obj/Debug/net9.0/refint/staticClass.dll
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/staticClass/obj/Debug/net9.0/staticClass.pdb
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/staticClass/obj/Debug/net9.0/staticClass.genruntimeconfig.cache
+/home/arbinddas/Desktop/dotnet_individual_projects/OOPS/staticClass/obj/Debug/net9.0/ref/staticClass.dll

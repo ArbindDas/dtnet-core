@@ -1,0 +1,14 @@
+/home/arbinddas/Desktop/dotnet_individual_projects/classWork/obj/Debug/net9.0/classWork.GeneratedMSBuildEditorConfig.editorconfig
+/home/arbinddas/Desktop/dotnet_individual_projects/classWork/obj/Debug/net9.0/classWork.AssemblyInfoInputs.cache
+/home/arbinddas/Desktop/dotnet_individual_projects/classWork/obj/Debug/net9.0/classWork.AssemblyInfo.cs
+/home/arbinddas/Desktop/dotnet_individual_projects/classWork/obj/Debug/net9.0/classWork.csproj.CoreCompileInputs.cache
+/home/arbinddas/Desktop/dotnet_individual_projects/classWork/bin/Debug/net9.0/classWork
+/home/arbinddas/Desktop/dotnet_individual_projects/classWork/bin/Debug/net9.0/classWork.deps.json
+/home/arbinddas/Desktop/dotnet_individual_projects/classWork/bin/Debug/net9.0/classWork.runtimeconfig.json
+/home/arbinddas/Desktop/dotnet_individual_projects/classWork/bin/Debug/net9.0/classWork.dll
+/home/arbinddas/Desktop/dotnet_individual_projects/classWork/bin/Debug/net9.0/classWork.pdb
+/home/arbinddas/Desktop/dotnet_individual_projects/classWork/obj/Debug/net9.0/classWork.dll
+/home/arbinddas/Desktop/dotnet_individual_projects/classWork/obj/Debug/net9.0/refint/classWork.dll
+/home/arbinddas/Desktop/dotnet_individual_projects/classWork/obj/Debug/net9.0/classWork.pdb
+/home/arbinddas/Desktop/dotnet_individual_projects/classWork/obj/Debug/net9.0/classWork.genruntimeconfig.cache
+/home/arbinddas/Desktop/dotnet_individual_projects/classWork/obj/Debug/net9.0/ref/classWork.dll

@@ -1,0 +1,14 @@
+/home/arbinddas/Downloads/dotnet_individual_projects/Namespaces_classes_Rules/bin/Debug/net9.0/Namespaces_classes_Rules
+/home/arbinddas/Downloads/dotnet_individual_projects/Namespaces_classes_Rules/bin/Debug/net9.0/Namespaces_classes_Rules.deps.json
+/home/arbinddas/Downloads/dotnet_individual_projects/Namespaces_classes_Rules/bin/Debug/net9.0/Namespaces_classes_Rules.runtimeconfig.json
+/home/arbinddas/Downloads/dotnet_individual_projects/Namespaces_classes_Rules/bin/Debug/net9.0/Namespaces_classes_Rules.dll
+/home/arbinddas/Downloads/dotnet_individual_projects/Namespaces_classes_Rules/bin/Debug/net9.0/Namespaces_classes_Rules.pdb
+/home/arbinddas/Downloads/dotnet_individual_projects/Namespaces_classes_Rules/obj/Debug/net9.0/Namespaces_classes_Rules.GeneratedMSBuildEditorConfig.editorconfig
+/home/arbinddas/Downloads/dotnet_individual_projects/Namespaces_classes_Rules/obj/Debug/net9.0/Namespaces_classes_Rules.AssemblyInfoInputs.cache
+/home/arbinddas/Downloads/dotnet_individual_projects/Namespaces_classes_Rules/obj/Debug/net9.0/Namespaces_classes_Rules.AssemblyInfo.cs
+/home/arbinddas/Downloads/dotnet_individual_projects/Namespaces_classes_Rules/obj/Debug/net9.0/Namespaces_classes_Rules.csproj.CoreCompileInputs.cache
+/home/arbinddas/Downloads/dotnet_individual_projects/Namespaces_classes_Rules/obj/Debug/net9.0/Namespaces_classes_Rules.dll
+/home/arbinddas/Downloads/dotnet_individual_projects/Namespaces_classes_Rules/obj/Debug/net9.0/refint/Namespaces_classes_Rules.dll
+/home/arbinddas/Downloads/dotnet_individual_projects/Namespaces_classes_Rules/obj/Debug/net9.0/Namespaces_classes_Rules.pdb
+/home/arbinddas/Downloads/dotnet_individual_projects/Namespaces_classes_Rules/obj/Debug/net9.0/Namespaces_classes_Rules.genruntimeconfig.cache
+/home/arbinddas/Downloads/dotnet_individual_projects/Namespaces_classes_Rules/obj/Debug/net9.0/ref/Namespaces_classes_Rules.dll

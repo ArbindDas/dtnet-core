@@ -1,0 +1,14 @@
+/home/arbinddas/Desktop/dotnet_individual_projects/Constructor/bin/Debug/net9.0/Constructor
+/home/arbinddas/Desktop/dotnet_individual_projects/Constructor/bin/Debug/net9.0/Constructor.deps.json
+/home/arbinddas/Desktop/dotnet_individual_projects/Constructor/bin/Debug/net9.0/Constructor.runtimeconfig.json
+/home/arbinddas/Desktop/dotnet_individual_projects/Constructor/bin/Debug/net9.0/Constructor.dll
+/home/arbinddas/Desktop/dotnet_individual_projects/Constructor/bin/Debug/net9.0/Constructor.pdb
+/home/arbinddas/Desktop/dotnet_individual_projects/Constructor/obj/Debug/net9.0/Constructor.GeneratedMSBuildEditorConfig.editorconfig
+/home/arbinddas/Desktop/dotnet_individual_projects/Constructor/obj/Debug/net9.0/Constructor.AssemblyInfoInputs.cache
+/home/arbinddas/Desktop/dotnet_individual_projects/Constructor/obj/Debug/net9.0/Constructor.AssemblyInfo.cs
+/home/arbinddas/Desktop/dotnet_individual_projects/Constructor/obj/Debug/net9.0/Constructor.csproj.CoreCompileInputs.cache
+/home/arbinddas/Desktop/dotnet_individual_projects/Constructor/obj/Debug/net9.0/Constructor.dll
+/home/arbinddas/Desktop/dotnet_individual_projects/Constructor/obj/Debug/net9.0/refint/Constructor.dll
+/home/arbinddas/Desktop/dotnet_individual_projects/Constructor/obj/Debug/net9.0/Constructor.pdb
+/home/arbinddas/Desktop/dotnet_individual_projects/Constructor/obj/Debug/net9.0/Constructor.genruntimeconfig.cache
+/home/arbinddas/Desktop/dotnet_individual_projects/Constructor/obj/Debug/net9.0/ref/Constructor.dll
