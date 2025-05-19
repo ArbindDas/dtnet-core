@@ -1,0 +1,14 @@
+/home/arbinddas/Desktop/dotnet_individual_projects/SealedMethodClass/obj/Debug/net9.0/SealedMethodClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/arbinddas/Desktop/dotnet_individual_projects/SealedMethodClass/obj/Debug/net9.0/SealedMethodClass.AssemblyInfoInputs.cache
+/home/arbinddas/Desktop/dotnet_individual_projects/SealedMethodClass/obj/Debug/net9.0/SealedMethodClass.AssemblyInfo.cs
+/home/arbinddas/Desktop/dotnet_individual_projects/SealedMethodClass/obj/Debug/net9.0/SealedMethodClass.csproj.CoreCompileInputs.cache
+/home/arbinddas/Desktop/dotnet_individual_projects/SealedMethodClass/bin/Debug/net9.0/SealedMethodClass
+/home/arbinddas/Desktop/dotnet_individual_projects/SealedMethodClass/bin/Debug/net9.0/SealedMethodClass.deps.json
+/home/arbinddas/Desktop/dotnet_individual_projects/SealedMethodClass/bin/Debug/net9.0/SealedMethodClass.runtimeconfig.json
+/home/arbinddas/Desktop/dotnet_individual_projects/SealedMethodClass/bin/Debug/net9.0/SealedMethodClass.dll
+/home/arbinddas/Desktop/dotnet_individual_projects/SealedMethodClass/bin/Debug/net9.0/SealedMethodClass.pdb
+/home/arbinddas/Desktop/dotnet_individual_projects/SealedMethodClass/obj/Debug/net9.0/SealedMethodClass.dll
+/home/arbinddas/Desktop/dotnet_individual_projects/SealedMethodClass/obj/Debug/net9.0/refint/SealedMethodClass.dll
+/home/arbinddas/Desktop/dotnet_individual_projects/SealedMethodClass/obj/Debug/net9.0/SealedMethodClass.pdb
+/home/arbinddas/Desktop/dotnet_individual_projects/SealedMethodClass/obj/Debug/net9.0/SealedMethodClass.genruntimeconfig.cache
+/home/arbinddas/Desktop/dotnet_individual_projects/SealedMethodClass/obj/Debug/net9.0/ref/SealedMethodClass.dll
